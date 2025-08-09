@@ -2,6 +2,27 @@
 
 A pixel-perfect replication of the sign-up page design using React.js, featuring modern typography, responsive layout, and clean code structure.
 
+## 📸 Preview
+
+### Desktop View
+![Desktop View](https://github.com/user-attachments/assets/desktop-preview.png)
+
+### Tablet View  
+![Tablet View](https://github.com/user-attachments/assets/tablet-preview.png)
+
+### Mobile View
+![Mobile View](https://github.com/user-attachments/assets/mobile-preview.png)
+
+### Responsive Design Demo
+![Responsive Demo](https://github.com/user-attachments/assets/responsive-demo.gif)
+
+## 🎯 Design Comparison
+
+| Original Design | My Implementation |
+|:---------------:|:-----------------:|
+| ![Original](https://github.com/user-attachments/assets/original-design.png) | ![Implementation](https://github.com/user-attachments/assets/my-implementation.png) |
+| Target from ui-practise.vercel.app | Pixel-perfect React.js clone |
+
 ## 🎯 Project Overview
 
 This project replicates the design from [ui-practise.vercel.app/testingDesign](https://ui-practise.vercel.app/testingDesign) with:
