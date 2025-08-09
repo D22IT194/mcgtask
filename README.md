@@ -101,7 +101,6 @@ The design adapts beautifully across all devices:
 
 ## 📁 Project Structure
 
-```
 mcgtask/
 ├── public/
 │   ├── Fonts/
@@ -109,15 +108,20 @@ mcgtask/
 │   └── vite.svg
 ├── src/
 │   ├── assets/
+│   │   ├── Background.png
+│   │   ├── desktop-preview.png
 │   │   ├── logo.png
-│   │   └── Background.png
+│   │   ├── mobile-preview.png
+│   │   ├── my-implementation.png
+│   │   ├── original-design.png
+│   │   ├── react.svg
+│   │   └── tablet-preview.png
 │   ├── App.jsx          # Main React component
 │   ├── App.css          # Component styles
 │   ├── index.css        # Global styles
 │   └── main.jsx         # Entry point
 ├── package.json
 └── README.md
-```
 
 ## 🎨 Design Specifications
 
