@@ -144,4 +144,4 @@ This project is ready for submission via:
 
 ---
 
-**Built with ❤️ using React.js and modern web technologies**
+**Built with using React.js and modern web technologies**
